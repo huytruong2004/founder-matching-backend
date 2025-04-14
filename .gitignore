@@ -313,3 +313,22 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/django,nextjs,python,remix+vercel,vercel
 backend/backend/tmp.txt
+
+# Logs
+logs
+dev-debug.log
+# Dependency directories
+node_modules/
+# Environment variables
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# OS specific
+# Task files
+tasks.json
+tasks/ 
